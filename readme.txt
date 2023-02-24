@@ -1,2 +1,2 @@
 un fichero para revertir los commits. 
-proyecto terminado
+proyecto terminado al fin
