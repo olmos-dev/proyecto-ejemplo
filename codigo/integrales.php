@@ -1,5 +1,5 @@
 <?php 
-    echo "aqui va el codigo de las integrales";
+    echo "este es el mejor codigo de las integrales";
 
 
 ?>
