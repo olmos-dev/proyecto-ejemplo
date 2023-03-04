@@ -7,3 +7,7 @@ estoy trabajando en un progreso que se ha terminado correctamente.
 este es el cambio para el cliente...
 
 Se estan aplicando cambios exitosamente rebase 
+
+#modificar
+
+se han relizado cambios desde la web de github
